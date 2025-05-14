@@ -1,0 +1,32 @@
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\DAL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\DAL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\obj\Debug\DAL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\DAL\obj\Debug\DAL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\DAL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\DAL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.Migrations.Inicial.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\DAL\obj\Debug\DAL.Migrations.NombreDeTuMigracion.resources
