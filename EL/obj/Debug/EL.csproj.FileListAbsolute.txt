@@ -1,0 +1,12 @@
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\bin\Debug\EL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\bin\Debug\EL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\obj\Debug\EL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\EL\obj\Debug\EL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\bin\Debug\EL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\bin\Debug\EL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\obj\Debug\EL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\EL\obj\Debug\EL.pdb
