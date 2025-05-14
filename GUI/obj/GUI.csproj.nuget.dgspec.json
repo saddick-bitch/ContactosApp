@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\GUI\\GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\BLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\BLL\\BLL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj": {
+                "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\DAL\\DAL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj": {
+                "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj",
+        "projectName": "EL",
+        "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\GUI\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj": {
+                "projectPath": "C:\\Users\\marce\\Downloads\\Agenda\\AgendaContactosApp\\EL\\EL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

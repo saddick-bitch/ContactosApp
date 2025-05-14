@@ -1,0 +1,71 @@
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.dll.config
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\cs\GUI.resources.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EL.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.dll.config
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.dll.config
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EntityFramework.xml
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.FormContacto.resources
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.FormContacto.cs.resources
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\cs\GUI.resources.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\PRODUCCION\Desktop\TAREA PROGRAMACION\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.Contactos.FormContacto.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.Etiquetas.FormEtiqueta.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.FrmMenuPrincipal.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.Paises.FormPais.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.TipoContacto.FormTipoContacto.resources
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.AssemblyInfo.cs
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.exe
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.dll.config
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.deps.json
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.runtimeconfig.json
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\GUI.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EL.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\BLL.dll.config
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\EL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\bin\Debug\net8.0-windows\DAL.dll.config
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\refint\GUI.dll
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.pdb
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
+C:\Users\marce\Downloads\Agenda\AgendaContactosApp\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
